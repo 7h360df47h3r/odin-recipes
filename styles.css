@@ -1,0 +1,51 @@
+body {
+  background-color: antiquewhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+  color: brown;
+  text-align: center;
+}
+
+.recipe-head {
+  color: crimson;
+  margin-left: 20px;
+}
+
+.recipe-sub-head {
+  color: brown;
+}
+.recipe-button {
+  background-color: brown;
+  border-radius: 50px;
+  border: none;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.recipe-homepage-image {
+  border-radius: 125px;
+  background-size: cover;
+  display: block;
+  -webkit-border-radius: 125px;
+  -moz-border-radius: 125px;
+  width: 20%;
+  margin: auto;
+}
+
+.recipe-image {
+  border-radius: 15px;
+  background-size: cover;
+  display: block;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  width: 50%;
+  margin: auto;
+}
